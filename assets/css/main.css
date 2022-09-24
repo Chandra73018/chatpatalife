@@ -61,7 +61,7 @@ section {
   right: 15px;
   bottom: 15px;
   z-index: 99999;
-  background: var(--color-primary);
+  background: rgb(0, 123, 255);
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -1195,7 +1195,7 @@ section {
 --------------------------------------------------------------*/
 .footer {
   overflow: hidden;
-  background: rgb(0, 145, 255);
+  background: rgb(0, 123, 255);
   font-size: 16px;
   color: rgba(var(--color-white-rgb), 0.7);
 }
